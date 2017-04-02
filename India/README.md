@@ -4,7 +4,7 @@
 - Add Rental Agreement template
 
 ### Rent Receipt Tips
-- If rent payed by tenant per month exceeds Rs. 1,00,000 per year, then
+- If rent paid by tenant per month exceeds Rs. 1,00,000 per year, then
   the property owners' PAN Card must be mentioned in the Rent Receipt.
   Fearing income-tax, property owners in many places refuse to make
   formal binding agreements mentioning the 'actual' rent they charge for
