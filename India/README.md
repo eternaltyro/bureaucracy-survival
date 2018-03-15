@@ -21,6 +21,8 @@
    authenticity to the receipt.
  - You can make receipts for every quarter. One receipt for three months
    should suffice. No need to waste 12 papers when four would do.
+ - Typically, 1. Apr-Jun; 2. Jul-Sep; 3. Oct-Dec; 4. Jan-Mar. Mention that Rent
+   has been paid in advance wherever appropriate.
  - Each receipt should have a revenue stamp of 1 rupee value affixed.
  - The property owner's signature should begin on paper and ride across
    the revenue stamp.
